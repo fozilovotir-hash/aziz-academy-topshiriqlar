@@ -1,0 +1,7 @@
+taom1 = input()
+taom2 = input()
+taom3 = input()
+print("--- MENYU ---")
+print(f"1. {taom1}")
+print(f"2. {taom2}")
+print(f"3. {taom3}")
