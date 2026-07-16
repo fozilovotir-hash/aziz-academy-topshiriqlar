@@ -4,38 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **20%**  (35/179 mavzu)
+`░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **25733**
-- 📤 GitHubga yuborilgan topshiriqlar: **45**
+- ⭐ Jami ball: **25898**
+- 📤 GitHubga yuborilgan topshiriqlar: **46**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **Dict metodlari — keys(), values(), items(), get()**
+**MODUL 1 — Asoslar**
 
-➡️ Keyingi mavzu: *Dict — asoslar ⭐ — key/value, qiymatga murojaat*
+➡️ Keyingi mavzu: *Dasturlashga kirish — Python nima va nega o'rganamiz*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
-- ✅ List metodlari — append, insert, remove, pop, sort, reverse
-- ✅ List slicing va copy — list(), [:], shallow copy
-- ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
-- ✅ Tuple — o'zgarmas tuzilma, qachon kerak
-- ✅ Tuple unpacking ⭐ — a, b = b, a
-- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ✅ Dict metodlari — keys(), values(), items(), get()  ← yetgan joyingiz
-- ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
-- ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
-- ⬜ Set operatsiyalari — union, intersection, difference
-- ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
-- ⬜ Nested structures — dict ichida list, list ichida dict
-- ⬜ Ma'lumotni tanlash ⭐ — list vs dict vs set
-- ⬜ Big O — kirish ⭐ — nega dict tez, list sekin?
-- ⬜ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
-- ⬜ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
-- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
+- ⬜ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ⬜ Birinchi dastur ⭐ — print() va kommentlar
+- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ⬜ Sonlar: int va float — butun va kasr sonlar
+- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
+- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar — and, or, not
+- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -43,10 +40,10 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
+| 1 | ⬜ Asoslar | `░░░░░░░░░░` 0% | 0/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█████████░` 87% | 13/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `████░░░░░░` 39% | 7/18 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-11 14:20</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-16 13:03</sub>
