@@ -1,0 +1,4 @@
+manzil = """Toshkent
+Chilonzor
+5-uy"""
+print(manzil)
